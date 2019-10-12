@@ -71,6 +71,7 @@ tracks/0/keys = {
 
 [node name="Character" type="Area2D"]
 script = ExtResource( 1 )
+speed = 3
 
 [node name="Sprite" type="Sprite" parent="."]
 vframes = 4
