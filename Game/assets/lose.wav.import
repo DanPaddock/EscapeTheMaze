@@ -2,12 +2,12 @@
 
 importer="wav"
 type="AudioStreamSample"
-path="res://.import/lose.wav-f2031eeaf36f7f1c79209a028e6ed60e.sample"
+path="res://.import/lose.wav-0166e9f7e5a27ee7b52278ff06f50331.sample"
 
 [deps]
 
-source_file="res://assets/audio/lose.wav"
-dest_files=[ "res://.import/lose.wav-f2031eeaf36f7f1c79209a028e6ed60e.sample" ]
+source_file="res://assets/lose.wav"
+dest_files=[ "res://.import/lose.wav-0166e9f7e5a27ee7b52278ff06f50331.sample" ]
 
 [params]
 

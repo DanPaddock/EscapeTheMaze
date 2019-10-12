@@ -15,6 +15,7 @@ onready var raycasts = {'right': $RayCastRight,
 						'down': $RayCastDown}
 
 func move(dir):
+	speed = 3
 	$AnimationPlayer.playback_speed = speed
 	facing = dir
 	if raycasts[facing].is_colliding():
